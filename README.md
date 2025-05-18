@@ -10,8 +10,7 @@ All you must do is download the .exe file. Either do this by downloading the sou
 
 Alternatively you can watch the video I have made showcasing this programme: 
 
--havent made it yet-
-
+[![Watch the video](https://img.youtube.com/vi/oEP5_Q29k14/hqdefault.jpg)](https://www.youtube.com/watch?v=oEP5_Q29k14)
 
 ## Features
 
